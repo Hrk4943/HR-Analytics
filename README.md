@@ -20,9 +20,6 @@ This project focuses on creating an interactive **HR Analytics Dashboard** using
 - Number of employees leaving over time.
 - Department with the highest turnover.
 
-### 5. Interactive Dashboard
-- Filters for department, job title, and hire year.
-- KPIs showing **total employees, average salary, and total payroll**.
 
 ## Technologies Used
 - **Power BI** for data visualization.
